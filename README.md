@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Plasma Client
 
-You can use the [editor on GitHub](https://github.com/sigmaclientwastaken/Plasma/edit/GitHubPages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Plasma Client](https://github.com/sigmaclientwastaken/Plasma) is a Minecraft utility mod for 1.8.
 
 ### Markdown
 
